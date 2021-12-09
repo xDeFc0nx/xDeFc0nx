@@ -10,5 +10,8 @@
   <h4> - 🟪 Mitegra.mk </h4>
  
 </div>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?xDeFc0nx=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
