@@ -11,5 +11,4 @@
  
 </div>
 <br><svg width="92" height="80" viewBox="0 0 92 80" class="mask-1l8v16 svg-2V3M55" aria-hidden="true"><foreignObject x="0" y="0" width="80" height="80" mask="url(#svg-mask-avatar-status-round-80)"><div class="avatarStack-2Dr8S9"><img src="https://cdn.discordapp.com/avatars/439128031152570389/651f0507c0c102568c6a1a4b7533f54e.png?size=80" alt=" " class="avatar-VxgULZ" aria-hidden="true"></div></foreignObject><rect width="16" height="16" x="60" y="60" fill="hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)" mask="url(#svg-mask-status-online)" class="pointerEvents-2zdfdO"></rect></svg>
-<br><br><br><br><br><br><br><br>
 
