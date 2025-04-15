@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xDeFc0nx" alt="xDeFc0nx" /></a> </p>
 
 <h3>What im doing now</h3>
-[![Discord Presence](https://discord.c99.nl/widget/theme-dark/439128031152570389_ID.svg)](https://discord.com/users/439128031152570389)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/439128031152570389)](https://discord.com/users/439128031152570389)
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nehar-tale-b795b5225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin_profile" height="30" width="40" /></a>
 
